@@ -1,0 +1,146 @@
+body {
+	font-family: gotham;	
+	background-image: url(Trading-PNG.png);
+	/*background-image: linear-gradient(to right,#eb5261, #f58849);*/
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-size: 45%;
+
+	/*background-size: cover;*/
+}
+
+.container {
+	width: 380px;
+	margin:7% auto;
+	margin-right: 10%;
+	padding: 1%;
+	border-radius: 20px;
+	background-color: transparent;
+	box-shadow: 0 0 5px #333;
+}
+
+.header {
+	text-align: center;
+	padding-top: 10%;
+}
+
+/*.header h1 {
+	/*color: blue;*/
+	font-size: 40px;
+
+	/*margin-bottom: 80px;*/
+
+}*/
+.gredint-text{
+background-image: linear-gradient(#051937, red, blue);
+	background-clip: text;
+	color: transparent;
+}
+.header h3 {
+	
+	/*font-size: 4px;*/
+	margin-bottom: 80px;
+}
+
+
+
+.main {
+	text-align: center;
+	padding-bottom: 10%;
+	margin: -15%;
+
+}
+
+.main input, button {
+	width: 300px;
+	height: 40px;
+	/*border:none;*/
+	outline: none;
+	padding-left: 40px;
+	box-sizing: border-box;
+	font-size: 15px;
+	color: #333;
+	border-style: solid;
+	margin-bottom: 40px;
+
+}
+
+.main button {
+	padding-left: 0;
+	background-color: #83acf1;
+	letter-spacing: 1px;
+	font-weight: bold;
+	border:none;
+	color: black;
+	margin-bottom: 20px;
+
+
+}
+
+.main button:hover {
+	
+	background-color: #7799d4;
+
+}
+.main input:hover {
+	box-shadow: 2px 2px 5px #555;
+	background-color: #ddd;
+}
+.main a{
+  background-color: #7799d4;
+  color: black;
+  padding: 8px 18px;
+  /*text-align: center;*/
+  text-decoration: none;
+  display: inline-block;
+  margin-top: -60px;
+  margin-bottom: 40%;
+margin-right: 41%;
+}
+
+.input-icons i {
+            position: absolute;
+        }
+         
+        .input-icons {
+            width: 100%;
+            margin-bottom: 30px;
+            margin-top: -69%;
+            margin-left: 65%;
+
+        }
+         
+        .icon {
+            padding: 30%;
+            width: 60%;
+                  }
+         
+        .input-field {
+            width: 100%;
+            padding: 10px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
